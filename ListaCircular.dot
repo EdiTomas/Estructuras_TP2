@@ -1,0 +1,8 @@
+ digraph G {
+     rankdir=LR;  node[ shape=record, fontcolor=black, color=coral1];  
+edge[color=chartreuse1] 
+node10[label = "{<val>10
+ d
+ g|<ptr> sig}"];
+node10->node10
+}

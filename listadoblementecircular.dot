@@ -1,0 +1,15 @@
+ digraph G {
+     rankdir=LR;  node[ shape=record, fontcolor=black, color=coral1];  
+edge[color=chartreuse1] 
+node9[label = "{<val> ant |9 
+ Rudy 
+ Ariel|<ptr> sig}"];
+node10[label = "{<val> ant |10 
+ Edi 
+ TOmas|<ptr> sig}"];
+node9->node10;
+node9->node10;
+node10->node9;
+node10->node9;
+
+}
